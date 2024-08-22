@@ -1,0 +1,816 @@
+
+    [
+        {
+            "supplier_id": "1",
+            "company_name": "XYZ Manufacturing",
+            "website": "http://xyzmanufacturing.com",
+            "location": "Delhi",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "moulding"]
+        },
+        {
+            "supplier_id": "2",
+            "company_name": "ABC Industries",
+            "website": "http://abcindustries.com",
+            "location": "Mumbai",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["casting", "coating"]
+        },
+        {
+            "supplier_id": "3",
+            "company_name": "LMN Corp",
+            "website": "http://lmncorp.com",
+            "location": "Delhi",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing"]
+        },
+        
+    
+    
+    {
+        "supplier_id": "4",
+        "company_name": "PQR Technologies",
+        "website": "http://pqrtechnologies.com",
+        "location": "Bangalore",
+        "nature_of_business": "large_scale",
+        "manufacturing_processes": ["laser_cutting", "assembly"]
+    },
+    {
+        "supplier_id": "5",
+        "company_name": "STU Enterprises",
+        "website": "http://stuenterprises.com",
+        "location": "Hyderabad",
+        "nature_of_business": "medium_scale",
+        "manufacturing_processes": ["injection_moulding", "polishing"]
+    },
+    {
+        "supplier_id": "6",
+        "company_name": "VWX Solutions",
+        "website": "http://vwxsolutions.com",
+        "location": "Chennai",
+        "nature_of_business": "small_scale",
+        "manufacturing_processes": ["3d_printing", "casting"]
+    },
+    {
+        "supplier_id": "7",
+        "company_name": "YZA Ltd.",
+        "website": "http://yzaltd.com",
+        "location": "Delhi",
+        "nature_of_business": "large_scale",
+        "manufacturing_processes": ["moulding", "coating"]
+    },
+    {
+        "supplier_id": "8",
+        "company_name": "BCD Creations",
+        "website": "http://bcdcreations.com",
+        "location": "Mumbai",
+        "nature_of_business": "medium_scale",
+        "manufacturing_processes": ["casting", "assembly"]
+    },
+    {
+        "supplier_id": "9",
+        "company_name": "EFG Tech",
+        "website": "http://efgtech.com",
+        "location": "Pune",
+        "nature_of_business": "small_scale",
+        "manufacturing_processes": ["3d_printing", "laser_cutting"]
+    },
+    {
+        "supplier_id": "10",
+        "company_name": "HIJ Innovations",
+        "website": "http://hijinnovations.com",
+        "location": "Kolkata",
+        "nature_of_business": "medium_scale",
+        "manufacturing_processes": ["injection_moulding", "polishing"]
+    },
+    {
+        "supplier_id": "11",
+        "company_name": "KLM Industries",
+        "website": "http://klmindustries.com",
+        "location": "Delhi",
+        "nature_of_business": "small_scale",
+        "manufacturing_processes": ["3d_printing", "casting"]
+    },
+    {
+        "supplier_id": "12",
+        "company_name": "NOP Enterprises",
+        "website": "http://nopenterprises.com",
+        "location": "Bangalore",
+        "nature_of_business": "large_scale",
+        "manufacturing_processes": ["moulding", "assembly"]
+    },
+    {
+        "supplier_id": "13",
+        "company_name": "QRS Manufacturing",
+        "website": "http://qrsmfg.com",
+        "location": "Hyderabad",
+        "nature_of_business": "medium_scale",
+        "manufacturing_processes": ["laser_cutting", "coating"]
+    },
+    {
+        "supplier_id": "14",
+        "company_name": "TUV Solutions",
+        "website": "http://tuvsolutions.com",
+        "location": "Chennai",
+        "nature_of_business": "small_scale",
+        "manufacturing_processes": ["3d_printing", "polishing"]
+    },
+    {
+        "supplier_id": "15",
+        "company_name": "WXY Ltd.",
+        "website": "http://wxy.com",
+        "location": "Mumbai",
+        "nature_of_business": "large_scale",
+        "manufacturing_processes": ["injection_moulding", "assembly"]
+    },
+    
+      {
+            "supplier_id": "16",
+            "company_name": "ZAB Corp",
+            "website": "http://zabcorp.com",
+            "location": "Delhi",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "casting"]
+        },
+        {
+            "supplier_id": "17",
+            "company_name": "CDE Industries",
+            "website": "http://cdeindustries.com",
+            "location": "Bangalore",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["laser_cutting", "moulding"]
+        },
+        {
+            "supplier_id": "18",
+            "company_name": "FGH Enterprises",
+            "website": "http://fghenterprises.com",
+            "location": "Hyderabad",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["injection_moulding", "coating"]
+        },
+        {
+            "supplier_id": "19",
+            "company_name": "IJK Solutions",
+            "website": "http://ijksolutions.com",
+            "location": "Chennai",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "assembly"]
+        },
+        {
+            "supplier_id": "20",
+            "company_name": "LMN Ltd.",
+            "website": "http://lmn.com",
+            "location": "Pune",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["casting", "polishing"]
+        },
+        {
+            "supplier_id": "21",
+            "company_name": "OPQ Tech",
+            "website": "http://opqtech.com",
+            "location": "Kolkata",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "coating"]
+        },
+        {
+            "supplier_id": "22",
+            "company_name": "RST Manufacturing",
+            "website": "http://rstmanufacturing.com",
+            "location": "Delhi",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["moulding", "assembly"]
+        },
+        {
+            "supplier_id": "23",
+            "company_name": "UVW Enterprises",
+            "website": "http://uvwenterprises.com",
+            "location": "Bangalore",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["laser_cutting", "polishing"]
+        },
+        {
+            "supplier_id": "24",
+            "company_name": "XYZ Tech",
+            "website": "http://xyztech.com",
+            "location": "Hyderabad",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "injection_moulding"]
+        },
+        {
+            "supplier_id": "25",
+            "company_name": "ABC Solutions",
+            "website": "http://abcsolutions.com",
+            "location": "Chennai",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["casting", "assembly"]
+        },
+        {
+            "supplier_id": "26",
+            "company_name": "DEF Ltd.",
+            "website": "http://defltd.com",
+            "location": "Pune",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["3d_printing", "moulding"]
+        },
+        {
+            "supplier_id": "27",
+            "company_name": "GHI Technologies",
+            "website": "http://ghitechnologies.com",
+            "location": "Kolkata",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["laser_cutting", "casting"]
+        },
+        {
+            "supplier_id": "28",
+            "company_name": "JKL Innovations",
+            "website": "http://jklinnovations.com",
+            "location": "Delhi",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["injection_moulding", "polishing"]
+        },
+        {
+            "supplier_id": "29",
+            "company_name": "MNO Enterprises",
+            "website": "http://mnoenterprises.com",
+            "location": "Bangalore",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["3d_printing", "coating"]
+        },
+        {
+            "supplier_id": "30",
+            "company_name": "PQR Industries",
+            "website": "http://pqrindustries.com",
+            "location": "Hyderabad",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["casting", "assembly"]
+        },
+        {
+            "supplier_id": "31",
+            "company_name": "STU Corp",
+            "website": "http://stucorp.com",
+            "location": "Chennai",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["3d_printing", "moulding"]
+        },
+        {
+            "supplier_id": "32",
+            "company_name": "VWX Enterprises",
+            "website": "http://vwxenterprises.com",
+            "location": "Pune",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["laser_cutting", "polishing"]
+        },
+        {
+            "supplier_id": "33",
+            "company_name": "YZA Innovations",
+            "website": "http://yzainnovations.com",
+            "location": "Kolkata",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["3d_printing", "coating"]
+        },
+        {
+            "supplier_id": "34",
+            "company_name": "BCD Technologies",
+            "website": "http://bcdtechnologies.com",
+            "location": "Delhi",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["casting", "assembly"]
+        },
+        {
+            "supplier_id": "35",
+            "company_name": "EFG Solutions",
+            "website": "http://efgsolutions.com",
+            "location": "Bangalore",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["3d_printing", "moulding"]
+        },
+        {
+            "supplier_id": "36",
+            "company_name": "HIJ Ltd.",
+            "website": "http://hijltd.com",
+            "location": "Hyderabad",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["laser_cutting", "polishing"]
+        },
+        {
+            "supplier_id": "37",
+            "company_name": "KLM Corp",
+            "website": "http://klmcorp.com",
+            "location": "Chennai",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["injection_moulding", "coating"]
+        },
+        {
+            "supplier_id": "38",
+            "company_name": "NOP Industries",
+            "website": "http://nopindustries.com",
+            "location": "Pune",
+            "nature_of_business": "medium_scale",
+            "manufacturing_processes": ["3d_printing", "assembly"]
+        },
+        {
+            "supplier_id": "39",
+            "company_name": "QRS Tech",
+            "website": "http://qrstech.com",
+            "location": "Kolkata",
+            "nature_of_business": "small_scale",
+            "manufacturing_processes": ["casting", "moulding"]
+        },
+        {
+            "supplier_id": "40",
+            "company_name": "TUV Enterprises",
+            "website": "http://tuventerprises.com",
+            "location": "Delhi",
+            "nature_of_business": "large_scale",
+            "manufacturing_processes": ["3d_printing", "polishing"]
+        },
+        
+       {
+                "supplier_id": "41",
+                "company_name": "UVW Manufacturing",
+                "website": "http://uvwmanufacturing.com",
+                "location": "Bangalore",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["laser_cutting", "casting"]
+            },
+            {
+                "supplier_id": "42",
+                "company_name": "XYZ Innovations",
+                "website": "http://xyzinnovations.com",
+                "location": "Hyderabad",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["3d_printing", "moulding"]
+            },
+            {
+                "supplier_id": "43",
+                "company_name": "ABC Tech",
+                "website": "http://abctech.com",
+                "location": "Chennai",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["casting", "assembly"]
+            },
+            {
+                "supplier_id": "44",
+                "company_name": "DEF Manufacturing",
+                "website": "http://defmanufacturing.com",
+                "location": "Pune",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["injection_moulding", "polishing"]
+            },
+            {
+                "supplier_id": "45",
+                "company_name": "GHI Enterprises",
+                "website": "http://ghienterprises.com",
+                "location": "Kolkata",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["3d_printing", "coating"]
+            },
+            {
+                "supplier_id": "46",
+                "company_name": "JKL Technologies",
+                "website": "http://jkltechnologies.com",
+                "location": "Delhi",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["laser_cutting", "assembly"]
+            },
+            {
+                "supplier_id": "47",
+                "company_name": "MNO Corp",
+                "website": "http://mnocorp.com",
+                "location": "Bangalore",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["3d_printing", "casting"]
+            },
+            {
+                "supplier_id": "48",
+                "company_name": "PQR Industries",
+                "website": "http://pqrindustries.com",
+                "location": "Hyderabad",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["moulding", "polishing"]
+            },
+            {
+                "supplier_id": "49",
+                "company_name": "STU Tech",
+                "website": "http://stutech.com",
+                "location": "Chennai",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["injection_moulding", "coating"]
+            },
+            {
+                "supplier_id": "50",
+                "company_name": "VWX Innovations",
+                "website": "http://vwxinnovations.com",
+                "location": "Pune",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["3d_printing", "assembly"]
+            },
+            {
+                "supplier_id": "51",
+                "company_name": "YZA Manufacturing",
+                "website": "http://yzamanufacturing.com",
+                "location": "Kolkata",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["casting", "coating"]
+            },
+            {
+                "supplier_id": "52",
+                "company_name": "BCD Solutions",
+                "website": "http://bcdsolutions.com",
+                "location": "Delhi",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["laser_cutting", "moulding"]
+            },
+            {
+                "supplier_id": "53",
+                "company_name": "EFG Enterprises",
+                "website": "http://efgenterprises.com",
+                "location": "Bangalore",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["3d_printing", "polishing"]
+            },
+            {
+                "supplier_id": "54",
+                "company_name": "HIJ Innovations",
+                "website": "http://hijinnovations.com",
+                "location": "Hyderabad",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["casting", "assembly"]
+            },
+            {
+                "supplier_id": "55",
+                "company_name": "KLM Manufacturing",
+                "website": "http://klmmanufacturing.com",
+                "location": "Chennai",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["3d_printing", "coating"]
+            },
+            {
+                "supplier_id": "56",
+                "company_name": "NOP Ltd.",
+                "website": "http://nopltd.com",
+                "location": "Pune",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["laser_cutting", "assembly"]
+            },
+            {
+                "supplier_id": "57",
+                "company_name": "QRS Enterprises",
+                "website": "http://qrse.com",
+                "location": "Kolkata",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["casting", "polishing"]
+            },
+            {
+                "supplier_id": "58",
+                "company_name": "TUV Industries",
+                "website": "http://tuvindustries.com",
+                "location": "Delhi",
+                "nature_of_business": "large_scale",
+                "manufacturing_processes": ["3d_printing", "moulding"]
+            },
+            {
+                "supplier_id": "59",
+                "company_name": "UVW Tech",
+                "website": "http://uvwtech.com",
+                "location": "Bangalore",
+                "nature_of_business": "medium_scale",
+                "manufacturing_processes": ["laser_cutting", "coating"]
+            },
+            {
+                "supplier_id": "60",
+                "company_name": "XYZ Solutions",
+                "website": "http://xyzsolutions.com",
+                "location": "Hyderabad",
+                "nature_of_business": "small_scale",
+                "manufacturing_processes": ["3d_printing", "assembly"]
+            },
+            
+                {
+                    "supplier_id": "61",
+                    "company_name": "ABC Corp",
+                    "website": "http://abccorp.com",
+                    "location": "Chennai",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["casting", "moulding"]
+                },
+                {
+                    "supplier_id": "62",
+                    "company_name": "DEF Innovations",
+                    "website": "http://definnovations.com",
+                    "location": "Pune",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["3d_printing", "polishing"]
+                },
+                {
+                    "supplier_id": "63",
+                    "company_name": "GHI Tech",
+                    "website": "http://ghitech.com",
+                    "location": "Kolkata",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["laser_cutting", "casting"]
+                },
+                {
+                    "supplier_id": "64",
+                    "company_name": "JKL Ltd.",
+                    "website": "http://jklltd.com",
+                    "location": "Delhi",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["injection_moulding", "assembly"]
+                },
+                {
+                    "supplier_id": "65",
+                    "company_name": "MNO Technologies",
+                    "website": "http://mnotechnologies.com",
+                    "location": "Bangalore",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["3d_printing", "coating"]
+                },
+                {
+                    "supplier_id": "66",
+                    "company_name": "PQR Solutions",
+                    "website": "http://pqsolutions.com",
+                    "location": "Hyderabad",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["casting", "moulding"]
+                },
+                {
+                    "supplier_id": "67",
+                    "company_name": "STU Manufacturing",
+                    "website": "http://stumfg.com",
+                    "location": "Chennai",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["3d_printing", "assembly"]
+                },
+                {
+                    "supplier_id": "68",
+                    "company_name": "VWX Enterprises",
+                    "website": "http://vwxenterprises.com",
+                    "location": "Pune",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["injection_moulding", "polishing"]
+                },
+                {
+                    "supplier_id": "69",
+                    "company_name": "YZA Innovations",
+                    "website": "http://yzainnovations.com",
+                    "location": "Kolkata",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["3d_printing", "casting"]
+                },
+                {
+                    "supplier_id": "70",
+                    "company_name": "BCD Tech",
+                    "website": "http://bcdtech.com",
+                    "location": "Delhi",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["laser_cutting", "coating"]
+                },
+                {
+                    "supplier_id": "71",
+                    "company_name": "EFG Ltd.",
+                    "website": "http://efgltd.com",
+                    "location": "Bangalore",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["3d_printing", "moulding"]
+                },
+                {
+                    "supplier_id": "72",
+                    "company_name": "HIJ Manufacturing",
+                    "website": "http://hijmanufacturing.com",
+                    "location": "Hyderabad",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["casting", "assembly"]
+                },
+                {
+                    "supplier_id": "73",
+                    "company_name": "KLM Solutions",
+                    "website": "http://klmsolutions.com",
+                    "location": "Chennai",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["3d_printing", "polishing"]
+                },
+                {
+                    "supplier_id": "74",
+                    "company_name": "NOP Technologies",
+                    "website": "http://noptechnologies.com",
+                    "location": "Pune",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["laser_cutting", "moulding"]
+                },
+                {
+                    "supplier_id": "75",
+                    "company_name": "QRS Corp",
+                    "website": "http://qrscorp.com",
+                    "location": "Kolkata",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["3d_printing", "coating"]
+                },
+                {
+                    "supplier_id": "76",
+                    "company_name": "TUV Industries",
+                    "website": "http://tuvindustries.com",
+                    "location": "Delhi",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["injection_moulding", "assembly"]
+                },
+                {
+                    "supplier_id": "77",
+                    "company_name": "UVW Solutions",
+                    "website": "http://uvwsolutions.com",
+                    "location": "Bangalore",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["3d_printing", "casting"]
+                },
+                {
+                    "supplier_id": "78",
+                    "company_name": "XYZ Enterprises",
+                    "website": "http://xyzenterprises.com",
+                    "location": "Hyderabad",
+                    "nature_of_business": "small_scale",
+                    "manufacturing_processes": ["laser_cutting", "assembly"]
+                },
+                {
+                    "supplier_id": "79",
+                    "company_name": "ABC Manufacturing",
+                    "website": "http://abcmanufacturing.com",
+                    "location": "Chennai",
+                    "nature_of_business": "large_scale",
+                    "manufacturing_processes": ["3d_printing", "coating"]
+                },
+                {
+                    "supplier_id": "80",
+                    "company_name": "DEF Tech",
+                    "website": "http://deftech.com",
+                    "location": "Pune",
+                    "nature_of_business": "medium_scale",
+                    "manufacturing_processes": ["casting", "moulding"]
+                },
+                
+                    {
+                        "supplier_id": "81",
+                        "company_name": "GHI Innovations",
+                        "website": "http://ghiinnovations.com",
+                        "location": "Kolkata",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["3d_printing", "polishing"]
+                    },
+                    {
+                        "supplier_id": "82",
+                        "company_name": "JKL Enterprises",
+                        "website": "http://jklenterprises.com",
+                        "location": "Delhi",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["casting", "assembly"]
+                    },
+                    {
+                        "supplier_id": "83",
+                        "company_name": "MNO Solutions",
+                        "website": "http://mnosolutions.com",
+                        "location": "Bangalore",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["3d_printing", "coating"]
+                    },
+                    {
+                        "supplier_id": "84",
+                        "company_name": "PQR Ltd.",
+                        "website": "http://pqrltd.com",
+                        "location": "Hyderabad",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["laser_cutting", "casting"]
+                    },
+                    {
+                        "supplier_id": "85",
+                        "company_name": "STU Innovations",
+                        "website": "http://stuinnovations.com",
+                        "location": "Chennai",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["3d_printing", "moulding"]
+                    },
+                    {
+                        "supplier_id": "86",
+                        "company_name": "VWX Technologies",
+                        "website": "http://vwxtechnologies.com",
+                        "location": "Pune",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["casting", "assembly"]
+                    },
+                    {
+                        "supplier_id": "87",
+                        "company_name": "YZA Tech",
+                        "website": "http://yzatech.com",
+                        "location": "Kolkata",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["3d_printing", "polishing"]
+                    },
+                    {
+                        "supplier_id": "88",
+                        "company_name": "BCD Ltd.",
+                        "website": "http://bcddltd.com",
+                        "location": "Delhi",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["injection_moulding", "coating"]
+                    },
+                    {
+                        "supplier_id": "89",
+                        "company_name": "EFG Technologies",
+                        "website": "http://efgtechnologies.com",
+                        "location": "Bangalore",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["3d_printing", "moulding"]
+                    },
+                    {
+                        "supplier_id": "90",
+                        "company_name": "HIJ Enterprises",
+                        "website": "http://hijent.com",
+                        "location": "Hyderabad",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["casting", "assembly"]
+                    },
+                    {
+                        "supplier_id": "91",
+                        "company_name": "KLM Innovations",
+                        "website": "http://klminnovations.com",
+                        "location": "Chennai",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["3d_printing", "polishing"]
+                    },
+                    {
+                        "supplier_id": "92",
+                        "company_name": "NOP Corp",
+                        "website": "http://nopcorp.com",
+                        "location": "Pune",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["laser_cutting", "moulding"]
+                    },
+                    {
+                        "supplier_id": "93",
+                        "company_name": "QRS Innovations",
+                        "website": "http://qrsinnovations.com",
+                        "location": "Kolkata",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["3d_printing", "coating"]
+                    },
+                    {
+                        "supplier_id": "94",
+                        "company_name": "TUV Technologies",
+                        "website": "http://tuvtechnologies.com",
+                        "location": "Delhi",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["casting", "assembly"]
+                    },
+                    {
+                        "supplier_id": "95",
+                        "company_name": "UVW Innovations",
+                        "website": "http://uvwinovations.com",
+                        "location": "Bangalore",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["3d_printing", "coating"]
+                    },
+                    {
+                        "supplier_id": "96",
+                        "company_name": "XYZ Manufacturing",
+                        "website": "http://xyzmanufacturing.com",
+                        "location": "Hyderabad",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["laser_cutting", "polishing"]
+                    },
+                    {
+                        "supplier_id": "97",
+                        "company_name": "ABC Tech",
+                        "website": "http://abctech.com",
+                        "location": "Chennai",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["3d_printing", "moulding"]
+                    },
+                    {
+                        "supplier_id": "98",
+                        "company_name": "DEF Enterprises",
+                        "website": "http://defenterprises.com",
+                        "location": "Pune",
+                        "nature_of_business": "medium_scale",
+                        "manufacturing_processes": ["casting", "assembly"]
+                    },
+                    {
+                        "supplier_id": "99",
+                        "company_name": "GHI Solutions",
+                        "website": "http://ghisolutions.com",
+                        "location": "Kolkata",
+                        "nature_of_business": "small_scale",
+                        "manufacturing_processes": ["3d_printing", "coating"]
+                    },
+                    {
+                        "supplier_id": "100",
+                        "company_name": "JKL Technologies",
+                        "website": "http://jkltechnologies.com",
+                        "location": "Delhi",
+                        "nature_of_business": "large_scale",
+                        "manufacturing_processes": ["injection_moulding", "polishing"]
+                    }
+                ]
+                
+            
+            
+        
+        
+    

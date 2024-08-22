@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supplier Search</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Supplier Search</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <form id="supplierForm">
+            <label for="location">Location:</label>
+            <input type="text" id="location" name="location" placeholder="Enter location (e.g., Delhi)" required>
+
+            <label for="nature_of_business">Nature of Business:</label>
+            <select id="nature_of_business" name="nature_of_business">
+                <option value="small_scale">Small Scale</option>
+                <option value="medium_scale">Medium Scale</option>
+                <option value="large_scale">Large Scale</option>
+            </select>
+
+            <label for="manufacturing_process">Manufacturing Process:</label>
+            <select id="manufacturing_process" name="manufacturing_process">
+                <option value="moulding">Moulding</option>
+                <option value="3d_printing">3D Printing</option>
+                <option value="casting">Casting</option>
+                <option value="coating">Coating</option>
+            </select>
+
+            <input type="submit" value="Search">
+        </form>
+
+        <div id="results">
+            <h2>Results:</h2>
+            <ul id="supplierList"></ul>
+        </div>
+    </div>
+
+    <script src="backend.js"></script>
+</body>
+</html>
